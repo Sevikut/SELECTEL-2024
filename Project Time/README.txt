@@ -5,3 +5,5 @@
 Более подробное описание проекта можно найти в pdf файле, а также перейдя по приложенным ссылкам
 
 R21.6.8 – Team: Time (RU) - Finalist Presentation – RCJ OnStage Preliminary, Secondary - RCAP2021: https://www.youtube.com/watch?v=1UNAFAkGjAI&list=PLFg-N_d0BOGdhk6oaQG_Z__6HCrLLDmX_&index=2
+
+В данное время роботы проекта используются в Центре Робототехники Президентского ФМЛ №239 в образовательных целях. 
